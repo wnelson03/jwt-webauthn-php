@@ -10,7 +10,7 @@ On a live website, Redis or Memcached should be employed to cache data from data
 
 ## Showcase
 
-https://github.com/wnelson03/jwt-webauthn-php/assets/83034852/e7b70e04-1391-414a-b6b3-b07613f2e309
+https://github.com/wnelson03/jwt-webauthn-php/assets/83034852/15492793-9165-409f-bfae-7388ad454ccc
 
 ## Requirements
 
