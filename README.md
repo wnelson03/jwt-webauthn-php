@@ -4,6 +4,8 @@ Utilizing JWT & WebAuthn together in a backend API.
 
 Made this for [@Sellix](https://github.com/Sellix) in hopes to get an internship with them.
 
+**Edit:** I got the internship though my university sucks ass and only accepts corporate jobs. Sellix is still an awesome company who actually cares about the users; a rarity. Here's my referral link if you'd like to get a 30% discount off their subscriptions https://ref.sellix.io/s/register/72694
+
 Didn't use Redis for this, since I wanted it to work out-of-the-box for people lacking the PHPRedis extension.
 
 On a live website, Redis or Memcached should be employed to cache data from database, and to blacklist JWT tokens on logout/password reset.
